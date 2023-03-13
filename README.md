@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucaParsani
-- 👀 I’m interested in IT security, machine learning and automated computing
+- 👀 I’m interested in IT security
 - 🌱 I’m currently studying at PoliMI
 - 💞️ I’m down to collaborate on small projects as of now
 - 📫 How to reach me: luca@parsani.it
