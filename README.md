@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LucaParsani
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently studying at PoliMI and working as junior cybersecurity engineer at Betrusted
-- 💞️ I’m down to collaborate on small projects as of now
+- 👀 I’m interested in offensive cybersecurity and penetration testing
+- 🌱 I’m currently studying IT engineering at PoliMI and working as junior cybersecurity engineer at Betrusted
+- 💞️ I usually code in C, Python, Ruby, and use Bash and PowerShell
 - 📫 How to reach me: luca@parsani.it
 
 <!---
